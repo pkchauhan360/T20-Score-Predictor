@@ -1,4 +1,4 @@
-# Cricket Score Predictor
+# T20 Score Predictor
 
 This project is a **Cricket Score Predictor** that forecasts the final first innings score of a T20 cricket match. Using match-specific data such as the batting and bowling teams, the current score, balls left, wickets remaining, and recent scoring trends, the predictor provides an estimated final score.
 
@@ -29,7 +29,7 @@ The model is trained on a comprehensive dataset of historical T20 cricket matche
 
 You can interact with the **Cricket Score Predictor** using the user-friendly **Streamlit web app**:
 
-[**Try the Web App Here**](To be updated)
+[**Try the Web App Here**](https://t20-score-predictor-pkchauhan360.streamlit.app/)
 
 ## How It Works
 
@@ -57,7 +57,7 @@ The model was trained and evaluated on a test set of T20 matches and demonstrate
 | Metric                    | Value                                |
 | ------------------------- | ------------------------------------ |
 | Mean Absolute Error (MAE) | **1.64 runs**                        |
-| R-squared (R²)            | **0.9877**                           |
+| R-squared (R²)            | **0.98**                           |
 | Accuracy                  | High across various match conditions |
 
 ## How to Use the Web App
